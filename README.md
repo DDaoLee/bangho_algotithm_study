@@ -22,7 +22,7 @@
 
 | 주차 | 기간 | 문제 유형 | 문제 | 난이도 | 비고 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| week_01 |8.4.(월) ~ 8.10.(일) | 구현 | <p align=left> 1️⃣ [주사위 세개](https://www.acmicpc.net/problem/2480) <br>  2️⃣ [윷놀이](https://www.acmicpc.net/problem/2490) <br> 3️⃣ [홀수](https://www.acmicpc.net/problem/2576) <br> 4️⃣ [최댓값](https://www.acmicpc.net/problem/2562)  <br> 5️⃣ [일곱 난쟁이](https://www.acmicpc.net/problem/2309) </p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> </p> | 여러분 실력이 어느정도인지 몰라, 제가 임의로 넣었습니다. <br> 그래도 코딩테스트 스터디라 적당히 머리쓸만한 것들로 골랐습니다. <br> 첫 주는 특정 자료구조보다는 구현 능력을 키워보도록 합시다. \*^^\*|
+| week_01 |8.4.(월) ~ 8.10.(일) | 구현 | <p align=left> 1️⃣ [주사위 세개](https://www.acmicpc.net/problem/2480) <br>  2️⃣ [윷놀이](https://www.acmicpc.net/problem/2490) <br> 3️⃣ [홀수](https://www.acmicpc.net/problem/2576) <br> 4️⃣ [최댓값](https://www.acmicpc.net/problem/2562)  <br> 5️⃣ [일곱 난쟁이](https://www.acmicpc.net/problem/2309) </p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> </p> | - |
 
 ## 🧑🏻‍💻 진행 상황
 
