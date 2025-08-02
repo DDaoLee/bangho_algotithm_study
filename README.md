@@ -103,6 +103,8 @@ git push origin <브랜치 이름>
 <br>👉 “Compare & pull request” 버튼 클릭
 <br>👉 설명 적고 PR 생성
 <br>👉 스터디장이 merge 해줄 때까지 기다리면 끝!
+<br>
+✨사용한 branch들은 merge 이후 정리해주시면 됩니다.
 
 ---
 
