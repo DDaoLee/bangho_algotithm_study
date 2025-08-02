@@ -78,7 +78,7 @@
 - 해당 프로젝트에서 “fork” 버튼 클릭 후 fork 생성
 - 로컬 저장소에 해당 프로젝트를 clone
 ```
-git clone https://github.com/DDaoLee/bangho_algotithm_study.git
+git clone https://github.com/DDaoLee/bangho_algorithm_study.git
 cd bangho_algotithm_study
 ```
    - upstream 등록
