@@ -1,10 +1,6 @@
 # 🖥 방호팀 코딩테스트 스터디
 
 <table>
-  <tr>
-    <td>진행 기간</td>
-    <td>2025년 8월 ~ ing </td>
-  <tr>
     <td>플랫폼</td>
     <td>백준</td>
   </tr>
@@ -47,10 +43,9 @@
 
 ## 🔍 참여 방법
 
-1. 이 저장소를 `fork` 한다.
-2. 생성된 원격 저장소에 `Github ID`로 폴더를 생성한다.
-3. 알고리즘 풀이 후 원격 저장소 자신의 폴더에 풀이한 소스 코드를 `push` 한다.
-4. 원본 저장소로 `commit`한다.  ※ commit할 때 commit 컨벤션을 지킨다.
+1. 이 Repository를 `fork` 하여 복제한 후, 자신의 Github 계정으로 복사한다.
+2. 복사한 Repository에서 문제를 푼 뒤, 풀이한 소스 코드를 `commit & push` 한다. ※ commit을 수행할 땐, commit 컨벤션을 지킨다.
+3. 원본 저장소로 `pull request`한다. 
 <br/>
 
 ## 📁 Repository 폴더 구조
@@ -79,7 +74,7 @@
 
 ### 어떻게 하는지 모르겠어요.
 
-1. (처음 1회만) Repository Fork & Clone 및 Upstream 등록
+0. (처음 1회만) Repository Fork & Clone 및 Upstream 등록
 - 해당 프로젝트에서 “fork” 버튼 클릭 후 fork 생성
 - 로컬 저장소에 해당 프로젝트를 clone
 ```
@@ -90,23 +85,23 @@ cd bangho_algotithm_study
 ```
 git remote add upstream https://github.com/DDaoLee/bangho_algorithm_study.git
 ```
-2. 최신 main 브랜치로 동기화하기
+1. 최신 main 브랜치로 동기화하기
 ```
 git fetch upstream
 git checkout main
 git merge upstream/main
 ```
-3. 새 브랜치 생성하기
+2. 새 브랜치 생성하기
 ```
 git checkout -b <브랜치 이름>
 ```
-4. 자신의 폴더에 문제풀이코드 작성 후 commit & push
+3. 자신의 폴더에 문제풀이코드 작성 후 commit & push
 ```
 git add .
-git commit -m "feat: B100_LeeDaho"
+git commit -m "feat: B100_LeeDaho" # commit 컨벤션을 지킨다.
 git push origin <브랜치 이름>
 ```
-5. Github로 가서 Pull Request 생성
+4. Github로 가서 Pull Request 생성
 <br>👉 “Compare & pull request” 버튼 클릭
 <br>👉 설명 적고 PR 생성
 <br>👉 스터디장이 merge 해줄 때까지 기다리면 끝!
