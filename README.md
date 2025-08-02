@@ -60,8 +60,8 @@
 <br>
 
 ## ⚠️ commit 컨벤션
-### 💡 태그: B+문제번호_문제이름_본인이름
-### 💡 예시) `feat: B100_문제이름_LeeDaho`
+### 💡 태그: B+문제번호_본인이름
+### 💡 예시) `feat: B100_LeeDaho`
 ### 📌태그
 | 태그       | 설명                      |
 |:---------|:------------------------|
@@ -74,6 +74,35 @@
 
 
 <br/>
+
+---
+
+### 어떻게 하는지 모르겠어요.
+
+1. (처음 1회만) Repository Clone
+```
+git clone https://github.com/DDaoLee/bangho_algotithm_study
+cd bangho_algotithm_study
+```
+2. 최신 main 브랜치로 동기화하기
+```
+git checkout main
+git pull origin main
+```
+3. 새 브랜치 생성하기
+```
+git checkout -b <브랜치 이름>
+```
+4. 자신의 폴더에 문제풀이코드 작성 후 commit & push
+```
+git add .
+got commit -m "feat: B100_LeeDaho"
+git push origin <브랜치 이름>
+```
+5. Github로 가서 Pull Request 생성
+<br>👉 “Compare & pull request” 버튼 클릭
+<br>👉 설명 적고 PR 생성
+<br>👉 스터디장이 merge 해줄 때까지 기다리면 끝!
 
 ---
 
