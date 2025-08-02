@@ -79,15 +79,22 @@
 
 ### 어떻게 하는지 모르겠어요.
 
-1. (처음 1회만) Repository Clone
+1. (처음 1회만) Repository Fork & Clone 및 Upstream 등록
+- 해당 프로젝트에서 “fork” 버튼 클릭 후 fork 생성
+- 로컬 저장소에 해당 프로젝트를 clone
 ```
-git clone https://github.com/DDaoLee/bangho_algotithm_study
+git clone https://github.com/DDaoLee/bangho_algotithm_study.git
 cd bangho_algotithm_study
+```
+   - upstream 등록
+```
+git remote add upstream https://github.com/DDaoLee/bangho_algorithm_study.git
 ```
 2. 최신 main 브랜치로 동기화하기
 ```
+git fetch upstream
 git checkout main
-git pull origin main
+git merge upstream/main
 ```
 3. 새 브랜치 생성하기
 ```
@@ -96,7 +103,7 @@ git checkout -b <브랜치 이름>
 4. 자신의 폴더에 문제풀이코드 작성 후 commit & push
 ```
 git add .
-got commit -m "feat: B100_LeeDaho"
+git commit -m "feat: B100_LeeDaho"
 git push origin <브랜치 이름>
 ```
 5. Github로 가서 Pull Request 생성
@@ -104,7 +111,7 @@ git push origin <브랜치 이름>
 <br>👉 설명 적고 PR 생성
 <br>👉 스터디장이 merge 해줄 때까지 기다리면 끝!
 <br>
-✨사용한 branch들은 merge 이후 정리해주시면 됩니다.
+✨사용한 branch들은 merge 이후 시간날떄마다 정리해주시면 됩니다.
 
 ---
 
