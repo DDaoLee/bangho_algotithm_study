@@ -22,7 +22,6 @@ public class B2480_DDaoLee {
             result = Math.max(num1, Math.max(num2, num3)) * 100;
         }
 
-
         return result;
     }
     public static void main(String[] args) throws IOException{
