@@ -14,10 +14,12 @@ public class B2490_DDaoLee {
         
         for (int i = 0; i < 3; i++) {
             StringTokenizer st = new StringTokenizer(br.readLine());
+
             int sum = 0;
             while (st.hasMoreTokens()) {
                 sum += Integer.parseInt(st.nextToken());
             }
+
             sb.append(arr[sum] + "\n");
         }
         System.out.print(sb);
