@@ -23,7 +23,8 @@
 
 | 주차 | 기간 | 문제 유형 | 문제 | 난이도 | 비고 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| week_01 |8.4.(월) ~ 8.10.(일) | 구현 | <p align=left> 1️⃣ [주사위 세개](https://www.acmicpc.net/problem/2480) <br>  2️⃣ [윷놀이](https://www.acmicpc.net/problem/2490) <br> 3️⃣ [홀수](https://www.acmicpc.net/problem/2576) <br> 4️⃣ [최댓값](https://www.acmicpc.net/problem/2562)  <br> 5️⃣ [일곱 난쟁이](https://www.acmicpc.net/problem/2309) </p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> </p> | - |
+| WEEK_01 |8.4.(월) ~ 8.10.(일) | 구현 | <p align=left> 1️⃣ [주사위 세개](https://www.acmicpc.net/problem/2480) <br>  2️⃣ [윷놀이](https://www.acmicpc.net/problem/2490) <br> 3️⃣ [홀수](https://www.acmicpc.net/problem/2576) <br> 4️⃣ [최댓값](https://www.acmicpc.net/problem/2562)  <br> 5️⃣ [일곱 난쟁이](https://www.acmicpc.net/problem/2309) </p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> </p> | - |
+
 
 ## 🧑🏻‍💻 진행 상황
 
@@ -33,11 +34,15 @@
 | 해당 주에 부분 완료 시    | 🔢  |
 | 해당 주에 미완료 시      | ❌   |
 
-<br>
+
+## ▶ 📝[주차별 문제 이력](https://github.com/DDaoLee/bangho_algorithm_study/blob/main/docs/weekly_progress.md)
+
+
 
 | 일자 | 문제 | KimJiseok | AhnSuho | LeeDaho | KimDoyun |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| WEEK_01  | 1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣   |    ❌<br>❌<br>❌<br>❌<br>❌    |     ✅<br>❌<br>❌<br>❌<br>❌     |     ✅<br>✅<br>✅<br>✅<br>✅     |     ❌<br>❌<br>❌<br>❌<br>❌     |     
+| WEEK_01  | 1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣   |    ❌<br>❌<br>❌<br>❌<br>❌    |     ✅<br>❌<br>❌<br>❌<br>❌     |     ✅<br>✅<br>✅<br>✅<br>✅     |     ❌<br>❌<br>❌<br>❌<br>❌     |    
+| WEEK_02  | 1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣   |    ❌<br>❌<br>❌<br>❌<br>❌    |     ❌<br>❌<br>❌<br>❌<br>❌     |     ❌<br>❌<br>❌<br>❌<br>❌     |     ❌<br>❌<br>❌<br>❌<br>❌     |     
 ---
 
 <br>
