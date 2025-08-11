@@ -24,6 +24,12 @@
 | 주차 | 기간 | 문제 유형 | 문제 | 난이도 | 비고 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | WEEK_01 |8.4.(월) ~ 8.10.(일) | 구현 | <p align=left> 1️⃣ [주사위 세개](https://www.acmicpc.net/problem/2480) <br>  2️⃣ [윷놀이](https://www.acmicpc.net/problem/2490) <br> 3️⃣ [홀수](https://www.acmicpc.net/problem/2576) <br> 4️⃣ [최댓값](https://www.acmicpc.net/problem/2562)  <br> 5️⃣ [일곱 난쟁이](https://www.acmicpc.net/problem/2309) </p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> </p> | - |
+| WEEK_02 |8.11.(월) ~ 8.17.(일) | 구현 | <p align=left> 1️⃣ [트로피 진열](https://www.acmicpc.net/problem/1668) <br>  2️⃣ [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) <br> 3️⃣ [더하기 사이클](https://www.acmicpc.net/problem/1110) <br> 4️⃣ [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)  <br> 5️⃣ [덩치](https://www.acmicpc.net/problem/7568) </p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> </p> | - |
+
+  
+| 🐛 이번주 스페샬 문제(WEEK_02) 🐛 | 난이도 | 비고 |
+|:-----------------:|:----:|:----:|
+| *️⃣[🐜기적의 매매법🐜](https://www.acmicpc.net/problem/20546)*️⃣  |  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  | 5개 다풀고 이거 풀면 이다호 중위가 음료사줌 |
 
 
 ## 🧑🏻‍💻 진행 상황
