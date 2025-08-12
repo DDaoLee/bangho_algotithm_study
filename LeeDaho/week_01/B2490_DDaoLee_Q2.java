@@ -23,7 +23,7 @@ public class B2490_DDaoLee_Q2 {
                 sum += Integer.parseInt(st.nextToken());
             }
 
-            // sum은 등(1)의 개수, 인덱스를 이용해 결과 문자 출력
+            // sum은 등(1)의 개수, 인덱스를 이용해 결과문자 출력
             sb.append(arr[sum] + "\n");
         }
         System.out.print(sb);

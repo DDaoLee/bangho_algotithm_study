@@ -22,7 +22,7 @@ public class B2309_DDaoLee_Q5 {
 
         int fake1 = -1; // 가짜 난쟁이 1
         int fake2 = -1; // 가짜 난쟁이 2
-        boolean isfound = false; // 가짜 난쟁이 2명을 찾았는지 여부
+        boolean isfound = false; // 가짜 난쟁이 2명을 찾았는지 판단
 
         // 두 명의 난쟁이를 골라 합이 (전체 합 - 100)인지 확인
         for (int i = 0; i < height.length; i++) {
