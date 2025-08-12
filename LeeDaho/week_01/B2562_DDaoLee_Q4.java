@@ -17,7 +17,7 @@ public class B2562_DDaoLee_Q4 {
             // 현재 입력값이 maxValue보다 크다면, 최댓값과 인덱스 갱신
             if (value > maxValue) {
                 maxValue = value;     // 최댓값 저장
-                maxIndex = i + 1;     // 인덱스는 1부터 시작하므로 i+1
+                maxIndex = i + 1;     // 인덱스는 1부터 시작하므로 i + 1
             }
         }
 

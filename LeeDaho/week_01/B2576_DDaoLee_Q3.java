@@ -17,7 +17,7 @@ public class B2576_DDaoLee_Q3 {
 
             if ((value % 2) == 1) { // 홀수인 경우
                 sum += value; // 합에 더하고
-                minValue = Math.min(minValue, value); // 현재 최솟값과 비교하여 갱신
+                minValue = Math.min(minValue, value); // 현재 최솟값과 비교
             }
         }
 

@@ -7,7 +7,6 @@ import java.io.InputStreamReader;
 public class B1668_DDaoLee_Q1 {
 
     public static void main(String[] args) throws IOException {
-        // 입력을 빠르게 받기 위해 BufferedReader 사용
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         // 트로피 개수 입력
