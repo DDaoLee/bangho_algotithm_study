@@ -15,7 +15,7 @@ public class B1292_DDaoLee_Q2 {
 
         while(true){
             currentIdx += ++currentNumber;               // 현재 숫자만큼 수열 길이 누적
-            totalSum += currentNumber * currentNumber;   // 해당 숫자의 누적 합도 추가 (숫자 ㅌ 반복 횟수)
+            totalSum += currentNumber * currentNumber;   // 해당 숫자의 누적 합도 추가 (숫자 x 반복 횟수)
 
             // 만약 현재까지 수열 길이가 index를 초과했다면 초과된 부분 조정
             if (currentIdx > index){
