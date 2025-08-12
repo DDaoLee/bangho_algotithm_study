@@ -6,8 +6,15 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class B2480_DDaoLee_Q1 {
-    // 주사위 세 개의 눈을 받아서 상금을 계산하는 함수
-    public static int diceRole(int num1, int num2, int num3) {
+    public static void main(String[] args) throws IOException{
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine());
+
+        int num1, num2, num3;
+        num1 = Integer.parseInt(st.nextToken());
+        num2 = Integer.parseInt(st.nextToken());
+        num3 = Integer.parseInt(st.nextToken());
+
         int result;
 
         // 모든 눈이 같은 경우: 10,000 + (같은 눈) * 1000
@@ -27,18 +34,7 @@ public class B2480_DDaoLee_Q1 {
             result = Math.max(num1, Math.max(num2, num3)) * 100;
         }
 
-        return result;
-    }
-    public static void main(String[] args) throws IOException{
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine());
-
-        int a, b, c;
-        a = Integer.parseInt(st.nextToken());
-        b = Integer.parseInt(st.nextToken());
-        c = Integer.parseInt(st.nextToken());
-
-        System.out.println(diceRole(a,b,c));
+        System.out.println(result);
 
     }
 
