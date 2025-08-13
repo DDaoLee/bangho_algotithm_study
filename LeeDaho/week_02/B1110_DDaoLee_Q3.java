@@ -9,7 +9,6 @@ public class B1110_DDaoLee_Q3 {
     public static void main(String[] args) throws IOException{
         
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
         int num = Integer.parseInt(br.readLine());
         
         // 원래 입력값을 기억하기 위해 변수에 저장

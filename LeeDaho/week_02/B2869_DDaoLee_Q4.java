@@ -8,10 +8,7 @@ import java.util.StringTokenizer;
 public class B2869_DDaoLee_Q4 {
     public static void main(String[] args) throws IOException {
         
-        // BufferedReader를 사용하여 사용자 입력을 받기 위한 설정
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        
-        // StringTokenizer를 사용하여 입력값을 공백 기준으로 나누어 처리
         StringTokenizer st = new StringTokenizer(br.readLine());
         
         // A, B, V 값을 각각 읽어 정수로 변환 
