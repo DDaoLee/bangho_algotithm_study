@@ -14,7 +14,7 @@ public class B2869_DDaoLee_Q4 {
         // StringTokenizer를 사용하여 입력값을 공백 기준으로 나누어 처리
         StringTokenizer st = new StringTokenizer(br.readLine());
         
-        // A, B, V 값을 각각 읽어 정수로 변환
+        // A, B, V 값을 각각 읽어 정수로 변환 
         int A = Integer.parseInt(st.nextToken()); // 낮 동안 올라가는 높이
         int B = Integer.parseInt(st.nextToken()); // 밤 동안 미끄러지는 높이
         int V = Integer.parseInt(st.nextToken()); // 목표로 가야 할 높이
