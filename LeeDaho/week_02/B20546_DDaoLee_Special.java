@@ -10,10 +10,10 @@ public class B20546_DDaoLee_Special {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         
-        // 초기 자금 입력받기
+        // 초기 자금
         int money = Integer.parseInt(br.readLine());
         
-        // 14일간의 주식 가격 입력받기
+        // 14일간의 주식 가격
         int[] stockPrice = new int[14];
         StringTokenizer st = new StringTokenizer(br.readLine());
         for (int i = 0; i < stockPrice.length; i++) {
