@@ -24,12 +24,14 @@
 | 주차 | 기간 | 문제 유형 | 문제 | 난이도 | 비고 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | WEEK_01 |8.4.(월) ~ 8.10.(일) | 구현 | <p align=left> 1️⃣ [주사위 세개](https://www.acmicpc.net/problem/2480) <br>  2️⃣ [윷놀이](https://www.acmicpc.net/problem/2490) <br> 3️⃣ [홀수](https://www.acmicpc.net/problem/2576) <br> 4️⃣ [최댓값](https://www.acmicpc.net/problem/2562)  <br> 5️⃣ [일곱 난쟁이](https://www.acmicpc.net/problem/2309) </p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> </p> | - |
-| WEEK_02 |8.11.(월) ~ 8.17.(일) | 구현 | <p align=left> 1️⃣ [트로피 진열](https://www.acmicpc.net/problem/1668) <br>  2️⃣ [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) <br> 3️⃣ [더하기 사이클](https://www.acmicpc.net/problem/1110) <br> 4️⃣ [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)  <br> 5️⃣ [덩치](https://www.acmicpc.net/problem/7568) </p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> </p> | - |
+| WEEK_02 |8.11.(월) ~ 8.17.(일) | 구현 | <p align=left> 1️⃣ [트로피 진열](https://www.acmicpc.net/problem/1668) <br>  2️⃣ [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) <br> 3️⃣ [더하기 사이클](https://www.acmicpc.net/problem/1110) <br> 4️⃣ [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)  <br> 5️⃣ [덩치](https://www.acmicpc.net/problem/7568) <br>  </p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> </p> | - |
+| WEEK_02<br>SPECIAL | 8.11.(월) ~ 8.17.(일) | 구현 | <p align=left> *️⃣[🐜기적의 매매법🐜](https://www.acmicpc.net/problem/20546) </p> |  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | - |
+| WEEK_03 |8.18.(월) ~ 8.24.(일) | 리스트 <br> (배열, 연결리스트) | <p align=left> 0️⃣ [알파벳 개수](https://www.acmicpc.net/problem/10808) <br> 1️⃣ [숫자의 개수](https://www.acmicpc.net/problem/2577) <br>  2️⃣ [애너그램 만들기](https://www.acmicpc.net/problem/1919) <br> 3️⃣ [방 번호](https://www.acmicpc.net/problem/1475) <br> 4️⃣ [에디터](https://www.acmicpc.net/problem/1406)  <br> 5️⃣ [요세푸스 문제](https://www.acmicpc.net/problem/1158) </p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> </p> | <p align=left> 0️⃣ 배열 감잡기용 연습문제 <br> 1️⃣ ~ 3️⃣ 배열 <br> 4️⃣ ~ 5️⃣ 연결 리스트 </p>|
 
   
-| 🐛 이번주 스페샬 문제(WEEK_02) 🐛 | 난이도 | 비고 |
+| 🐛 이번주 스페샬 문제(WEEK_03) 🐛 | 난이도 | 비고 |
 |:-----------------:|:----:|:----:|
-| *️⃣[🐜기적의 매매법🐜](https://www.acmicpc.net/problem/20546)*️⃣  |  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  | 5개 다풀고 이거 풀면 이다호 중위가 음료사줌 |
+| *️⃣[키로거](https://www.acmicpc.net/problem/5397)*️⃣  |  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | 사이버 전선 최전방에서 작전을 수행하는 사이버전사라면<br> 키로거 프로그램 정도는 구현할 수 있어야하지 않을가? |
 
 
 ## 🧑🏻‍💻 진행 상황
@@ -48,7 +50,8 @@
 | 일자 | 문제 | KimJiseok | AhnSuho | LeeDaho | KimDoyun |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 | WEEK_01  | 1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣   |    ❌<br>❌<br>❌<br>❌<br>❌    |     ✅<br>❌<br>❌<br>❌<br>❌     |     ✅<br>✅<br>✅<br>✅<br>✅     |     ❌<br>❌<br>❌<br>❌<br>❌     |    
-| WEEK_02  | 1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣<br>*️⃣   |    ❌<br>❌<br>❌<br>❌<br>❌<br>❌    |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |     ✅<br>✅<br>✅<br>✅<br>✅<br>✅     |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |     
+| WEEK_02  | 1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣<br>*️⃣   |    ❌<br>❌<br>❌<br>❌<br>❌<br>❌    |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |     ✅<br>✅<br>✅<br>✅<br>✅<br>✅     |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |  
+| WEEK_03  | 1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣  |    ❌<br>❌<br>❌<br>❌<br>❌    |     ❌<br>❌<br>❌<br>❌<br>❌     |     ❌<br>❌<br>❌<br>❌<br>❌     |     ❌<br>❌<br>❌<br>❌<br>❌     |    
 ---
 
 <br>
