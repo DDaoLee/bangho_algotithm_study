@@ -49,7 +49,7 @@
 | WEEK_01  | 1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣   |    ❌<br>❌<br>❌<br>❌<br>❌    |     ✅<br>❌<br>❌<br>❌<br>❌     |     ✅<br>✅<br>✅<br>✅<br>✅     |     ✅<br>✅<br>✅<br>✅<br>✅     |    
 | WEEK_02  | 1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣   |    ❌<br>❌<br>❌<br>❌<br>❌    |     ❌<br>❌<br>❌<br>❌<br>❌     |     ✅<br>✅<br>✅<br>✅<br>✅     |     ❌<br>❌<br>❌<br>❌<br>❌     |  
 | WEEK_02 SPECIAL  | *️⃣  |    ❌    |     ❌     |     ✅     |     ❌     |  
-| WEEK_03  | 0️⃣<br>1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣  |    ❌<br❌<br>❌<br>❌<br>❌<br>❌    |     ❌<br❌<br>❌<br>❌<br>❌<br>❌     |     ✅<br>✅<br>✅<br>✅<br>❌<br>❌     |     ❌<br❌<br>❌<br>❌<br>❌<br>❌     |   
+| WEEK_03  | 0️⃣<br>1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣  |    ❌<br>❌<br>❌<br>❌<br>❌<br>❌    |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |     ✅<br>✅<br>✅<br>✅<br>❌<br>❌     |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |   
 | WEEK_03 SPECIAL  | *️⃣  |    ❌    |     ❌     |     ❌     |     ❌     |   
 ---
 
