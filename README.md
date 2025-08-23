@@ -24,11 +24,15 @@
 | 주차 | 기간 | 문제 유형 | 문제 | 난이도 | 비고 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | WEEK_03 | 8월 3주차<br>(18일 ~ 24일) | 리스트 <br> (배열, 연결리스트) | <p align=left> 0️⃣ [알파벳 개수](https://www.acmicpc.net/problem/10808) <br> 1️⃣ [숫자의 개수](https://www.acmicpc.net/problem/2577) <br>  2️⃣ [애너그램 만들기](https://www.acmicpc.net/problem/1919) <br> 3️⃣ [방 번호](https://www.acmicpc.net/problem/1475) <br> 4️⃣ [에디터](https://www.acmicpc.net/problem/1406)  <br> 5️⃣ [요세푸스 문제](https://www.acmicpc.net/problem/1158) </p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> </p> | <p align=left> 0️⃣ 배열 감잡기용 연습문제 <br> 1️⃣ ~ 3️⃣ 배열 <br> 4️⃣ ~ 5️⃣ 연결 리스트 </p>|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| WEEK_04 | 8월 4주차<br>(25일 ~ 31일) | 스택 | <p align=left> 0️⃣ [스택](https://www.acmicpc.net/problem/10828) <br>  1️⃣ [제로](https://www.acmicpc.net/problem/10773) <br> 2️⃣ [좋은 단어](https://www.acmicpc.net/problem/3986) <br> 3️⃣ [괄호](https://www.acmicpc.net/problem/9012) <br> 4️⃣ [스택 수열](https://www.acmicpc.net/problem/1874)  <br> 5️⃣ [쇠막대기](https://www.acmicpc.net/problem/10799) </p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br>  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> </p> | <p align=left> 0️⃣ 스택 구현을 통한 개념잡기  |
 
   
 | 🐛 이번주 스페샬 문제(WEEK_03) 🐛 | 난이도 | 비고 |
 |:-----------------:|:----:|:----:|
 | *️⃣[키로거](https://www.acmicpc.net/problem/5397)*️⃣  |  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | 사이버 전선 최전방에서 작전을 수행하는 사이버전사라면<br> 키로거 프로그램 정도는 구현할 수 있어야하지 않을가? |
+| 🐛 다음주 스페샬 문제(WEEK_04) 🐛 | 난이도 | 비고 |
+| *️⃣[후위 표기식2](https://www.acmicpc.net/problem/1935)*️⃣  |  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | 다들 대학 전공에서 한번쯤 들어보시지 않았습니까??<br> * Q: 왜 1이 아니고 2인가요? <br> * A :[후위표기식1](https://www.acmicpc.net/problem/1918)(<img height="20px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>)은 아예 후위표기식을 <br>구현해야해서 넘 어려워요 |
 
 
 ## 🧑🏻‍💻 진행 상황
@@ -40,7 +44,8 @@
 | 해당 주에 미완료 시      | ❌   |
 
 
-## ▶ 📝[주차별 문제 이력](https://github.com/DDaoLee/bangho_algorithm_study/blob/main/docs/weekly_progress.md)
+## ▶ 📝[주차별 문제 이력](https://github.com/DDaoLee/bangho_algorithm_study/blob/main/docs/weekly_schedule.md)
+## ▶ 📝[주차별 진행도](https://github.com/DDaoLee/bangho_algorithm_study/blob/main/docs/weekly_progress.md)
 
 
 
@@ -51,6 +56,8 @@
 | WEEK_02 SPECIAL  | *️⃣  |    ❌    |     ❌     |     ✅     |     ❌     |  
 | WEEK_03  | 0️⃣<br>1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣  |    ❌<br>❌<br>❌<br>❌<br>❌<br>❌    |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |     ✅<br>✅<br>✅<br>✅<br>✅<br>✅     |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |   
 | WEEK_03 SPECIAL  | *️⃣  |    ❌    |     ❌     |     ✅     |     ❌     |   
+| WEEK_04  | 0️⃣<br>1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣  |    ❌<br>❌<br>❌<br>❌<br>❌<br>❌    |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |    ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |   
+| WEEK_04 SPECIAL  | *️⃣  |    ❌    |     ❌     |     ❌     |     ❌     |   
 ---
 
 <br>
