@@ -18,22 +18,9 @@
 
 - 주마다 지정된 문제를 풀이한다.
 - 각자 문제를 풀고 마감 시간 전에 제출한다.
-- 해당 주차에 모든 문제 + 스페샬 문제까지 풀면 해당 인원에게 이다호 중위가 음료수를 쏜다.
+- 해당 주차에 모든 문제 + 스페샬 문제까지 풀면 해당 인원에게 이다호 중위가 음료수를 쏜다. 
   
 ## ✔️ 이번 주 문제
-
-| 주차 | 기간 | 문제 유형 | 문제 | 난이도 | 비고 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| WEEK_03 | 8월 3주차<br>(18일 ~ 24일) | 리스트 <br> (배열, 연결리스트) | <p align=left> 0️⃣ [알파벳 개수](https://www.acmicpc.net/problem/10808) <br> 1️⃣ [숫자의 개수](https://www.acmicpc.net/problem/2577) <br>  2️⃣ [애너그램 만들기](https://www.acmicpc.net/problem/1919) <br> 3️⃣ [방 번호](https://www.acmicpc.net/problem/1475) <br> 4️⃣ [에디터](https://www.acmicpc.net/problem/1406)  <br> 5️⃣ [요세푸스 문제](https://www.acmicpc.net/problem/1158) </p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> </p> | <p align=left> 0️⃣ 배열 감잡기용 연습문제 <br> 1️⃣ ~ 3️⃣ 배열 <br> 4️⃣ ~ 5️⃣ 연결 리스트 </p>|
-
-| 🐛 이번주 스페샬 문제(WEEK_03) 🐛 | 난이도 | 비고 |
-|:-----------------:|:----:|:----:|
-| *️⃣[키로거](https://www.acmicpc.net/problem/5397)*️⃣  |  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | 사이버 전선 최전방에서 작전을 수행하는 사이버전사라면<br> 키로거 프로그램 정도는 구현할 수 있어야하지 않을가? |
-
-
-
-  
-## ✔️ 다음 주 문제
 
 
 | 주차 | 기간 | 문제 유형 | 문제 | 난이도 | 비고 |
@@ -60,9 +47,7 @@
 
 
 | 일자 | 문제 | KimJiseok | AhnSuho | LeeDaho | KimDoyun |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| WEEK_03  | 0️⃣<br>1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣  |    ❌<br>❌<br>❌<br>❌<br>❌<br>❌    |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |     ✅<br>✅<br>✅<br>✅<br>✅<br>✅     |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |   
-| WEEK_03 SPECIAL  | *️⃣  |    ❌    |     ❌     |     ✅     |     ❌     |   
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:| 
 | WEEK_04  | 0️⃣<br>1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣  |    ❌<br>❌<br>❌<br>❌<br>❌<br>❌    |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |    ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |   
 | WEEK_04 SPECIAL  | *️⃣  |    ❌    |     ❌     |     ❌     |     ❌     |   
 ---
